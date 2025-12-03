@@ -60,7 +60,7 @@ pip install streamlit
 
 Run the Streamlit app:
 ```bash
-streamlit run main.py
+streamlit run main_stream.py
 ```
 
 The application will automatically open in your default web browser at `http://localhost:8501`
@@ -109,7 +109,7 @@ library-management-system/
 
 ## 💾 Data Storage
 
-The system stores data in `library management/data.json` with the following structure:
+The system stores data in `data.json` with the following structure:
 
 ```json
 {
