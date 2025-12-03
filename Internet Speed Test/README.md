@@ -19,7 +19,7 @@ A simple and elegant **Internet Speed Test** desktop application built with **Py
 
 ```
 internet-speed-test/
-├── internet_speed_test.py       # Main application file
+├── main.py       # Main application file
 ├── README.md                    # Project documentation
 ```
 
