@@ -100,9 +100,9 @@ The application will automatically open in your default web browser at `http://l
 ```
 library-management-system/
 │
-├── main.py                      # Main Streamlit application
-├── library management/          # Data directory
-│   └── data.json               # JSON database file
+├── main_stream.py            # Main Streamlit application
+├── main_cli.py             #Main Cli version             
+├── data.json               # JSON database file
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project documentation
 ```
